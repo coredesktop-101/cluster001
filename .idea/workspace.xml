@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2821a0a3-5435-499d-b9bf-d61b50181cfd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/node/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/node/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/node/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/node/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster001/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster001/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +40,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="161" y="367" key="SettingsEditor" timestamp="1586351903935">
+    <state x="161" y="367" key="SettingsEditor" timestamp="1586954785706">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
-    <state x="161" y="367" key="SettingsEditor/43.27.2517.1413@43.27.2517.1413" timestamp="1586351903935" />
-    <state x="957" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1586321906130">
+    <state x="161" y="367" key="SettingsEditor/43.27.2517.1413@43.27.2517.1413" timestamp="1586954785706" />
+    <state x="957" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1586954754733">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
-    <state x="957" y="560" key="com.intellij.ide.util.TipDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1586321906130" />
+    <state x="957" y="560" key="com.intellij.ide.util.TipDialog/43.27.2517.1413@43.27.2517.1413" timestamp="1586954754733" />
     <state x="440" y="652" width="464" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586354411091">
       <screen x="43" y="27" width="2517" height="1413" />
     </state>
